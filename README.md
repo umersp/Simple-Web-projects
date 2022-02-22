@@ -4,4 +4,4 @@
 3- calculator   (html, css, js )
 4- Emoji changer ( html, css, js)
 
-please download zip files and run on your pc.
+please download zip files, Extract it and open the .html files first
